@@ -1,2 +1,2 @@
-# personal_calculator
-Here we have a Python project for a personalized password protected calculator.
+# pythonCalculatorWithCredentialCheck
+Here we have a Python project for a calculator with credential check.
